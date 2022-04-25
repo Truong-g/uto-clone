@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Về chúng tôi",
+        "icon": "https://uto.vn/storage/beta/assets/images/ic_about.png",
+        "route": "/introduce"
+    },
+    {
+        "title": "Đào tạo",
+        "icon": "https://uto.vn/storage/beta/assets/images/ic_dt.png",
+        "route": "/education"
+    },
+    {
+        "title": "Cộng đồng",
+        "icon": "https://uto.vn/storage/beta/assets/images/ic_cd.png",
+        "route": "/community"
+    },
+    {
+        "title": "Sàn thương mại",
+        "icon": "https://uto.vn/storage/beta/assets/images/ic_tm.png",
+        "route": "/"
+    },
+    {
+        "title": "Dịch vụ",
+        "icon": "https://uto.vn/storage/beta/assets/images/ic_log.png",
+        "route": "/services"
+    },
+    {
+        "title": "Tin tức",
+        "icon": "https://uto.vn/storage/beta/assets/images/ic_news.png",
+        "route": "/news"
+    },
+    {
+        "title": "Liên hệ",
+        "icon": "https://uto.vn/storage/beta/assets/images/ic_lh.png",
+        "route": "/contact"
+    }
+]

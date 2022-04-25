@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "name": "Sắc đẹp",
+        "route": "/trading/sac-dep",
+        "img": "https://file.uto.vn/image/516D64447571355078666B6E77467A7735465641704A734B75536F61487255343938787A714C586E727A745A3351",
+        "quantity": "114"
+    },
+    {
+        "id": 2,
+        "name": "Sức khỏe",
+        "route": "/trading/suc-khoe",
+        "img": "https://file.uto.vn/image/516D5A4E5465346950456451646271517973764E776244756F684B714C6A766D6276713542436179636264714763",
+        "quantity": "49"
+    },
+    {
+        "id": 3,
+        "name": "Điện thoại và phụ kiện",
+        "route": "/trading/sac-dep",
+        "img": "https://file.uto.vn/image/516D64447571355078666B6E77467A7735465641704A734B75536F61487255343938787A714C586E727A745A3351",
+        "quantity": "35"
+    },
+    {
+        "id": 4,
+        "name": "Phụ kiện và thời trang",
+        "route": "/trading/sac-dep",
+        "img": "https://file.uto.vn/image/516D556E43574D566742625459316D336B47354A6A716B325558345236756F6E5634636D76507271394353377551",
+        "quantity": "25"
+    },
+    {
+        "id": 5,
+        "name": "Nhà cửa và đời sống",
+        "route": "/trading/sac-dep",
+        "img": "https://file.uto.vn/image/516D5269505275716332463146746A47454E4D7479484A4768544A6B464A566155756A54754C31644C38546B6979",
+        "quantity": "24"
+    },
+    {
+        "id": 6,
+        "name": "Thời trang nữ",
+        "route": "/trading/sac-dep",
+        "img": "https://file.uto.vn/image/516D66425332784C477565526E4D38783852325251486568686578327A656137384B6756584B6741796E7A6D7558",
+        "quantity": "22"
+    },
+    {
+        "id": 7,
+        "name": "Thực phẩm và đồ uống",
+        "route": "/trading/sac-dep",
+        "img": "https://file.uto.vn/image/516D56316743574D415065666D576B63625058384865456B424251346F745A425764664637614D44436870634864",
+        "quantity": "114"
+    },
+    {
+        "id": 8,
+        "name": "Sắc đẹp",
+        "route": "/trading/sac-dep",
+        "img": "https://file.uto.vn/image/516D64447571355078666B6E77467A7735465641704A734B75536F61487255343938787A714C586E727A745A3351",
+        "quantity": "114"
+    },
+    {
+        "id": 9,
+        "name": "Sắc đẹp",
+        "route": "/trading/sac-dep",
+        "img": "https://file.uto.vn/image/516D64447571355078666B6E77467A7735465641704A734B75536F61487255343938787A714C586E727A745A3351",
+        "quantity": "114"
+    },
+    {
+        "id": 10,
+        "name": "Sắc đẹp",
+        "route": "/trading/sac-dep",
+        "img": "https://file.uto.vn/image/516D64447571355078666B6E77467A7735465641704A734B75536F61487255343938787A714C586E727A745A3351",
+        "quantity": "114"
+    },
+    {
+        "id": 11,
+        "name": "Sắc đẹp",
+        "route": "/trading/sac-dep",
+        "img": "https://file.uto.vn/image/516D64447571355078666B6E77467A7735465641704A734B75536F61487255343938787A714C586E727A745A3351",
+        "quantity": "114"
+    },
+    {
+        "id": 12,
+        "name": "Sắc đẹp",
+        "route": "/trading/sac-dep",
+        "img": "https://file.uto.vn/image/516D64447571355078666B6E77467A7735465641704A734B75536F61487255343938787A714C586E727A745A3351",
+        "quantity": "114"
+    },
+    {
+        "id": 13,
+        "name": "Sắc đẹp",
+        "route": "/trading/sac-dep",
+        "img": "https://file.uto.vn/image/516D64447571355078666B6E77467A7735465641704A734B75536F61487255343938787A714C586E727A745A3351",
+        "quantity": "114"
+    }
+]

@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "name": "Đèn xông tinh dầu phong cách Hàn Quốc",
+        "price": 360000,
+        "price_sale": 330000,
+        "img": "https://file.uto.vn/image/516D636F445173385141716E324134734865456353385544394A50756F353648504D7A71424E564B325936553779",
+        "created_at": "24/4/2022",
+        "slug": "djen-xong-tinh-dau-phong-cach-han-quoc"
+    },
+    {
+        "id": 2,
+        "name": "Sợi Đông Trùng Hạ Thảo",
+        "price": 680000,
+        "price_sale": 0,
+        "img": "https://file.uto.vn/image/516D636F445173385141716E324134734865456353385544394A50756F353648504D7A71424E564B325936553779",
+        "created_at": "24/4/2022", 
+        "slug": "soi-dong-trung-ha-thao"
+    },
+    {
+        "id": 3,
+        "name": "Bộ 3 hộp thực phẩm chữ nhật Hokkaido 500 - 1000 - 2000ml",
+        "price": 200000,
+        "price_sale": 170000,
+        "img": "https://file.uto.vn/image/516D546E4555524E4D395047516661464C747271754E597554434B6464773569324757504833695A513932593158",
+        "created_at": "24/4/2022", 
+        "slug": "bo-3-hop-thuc-pham-chu-nhat-hokkaido-500-1000-2000ml"
+    },
+    {
+        "id": 4,
+        "name": "Viên khổ qua rừng Mudaru hộp 30 viên",
+        "price": 200000,
+        "price_sale": 170000,
+        "img": "https://file.uto.vn/image/516D63554B35414E33753370614439774C3264464D47316B4C464833433151366464573152654A776A376B563732",
+        "created_at": "24/4/2022", 
+        "slug": "vien-kho-qua-rung-mudaru-hop-30-vien"
+    },
+    {
+        "id": 5,
+        "name": "Bộ vắt cam chanh tiện dụng có lọc Yoko",
+        "price": 200000,
+        "price_sale": 170000,
+        "img": "https://file.uto.vn/image/516D636F445173385141716E324134734865456353385544394A50756F353648504D7A71424E564B325936553779",
+        "created_at": "24/4/2022", 
+        "slug": "bo-vat-cam-chanh-tien-dung-co-loc-yoko"
+    },
+    {
+        "id": 6,
+        "name": "Bình nước cao cấp Biwa 1.6L",
+        "price": 200000,
+        "price_sale": 170000,
+        "img": "https://file.uto.vn/image/516D5272566A4873556A7357583337725576794A74344833714464544641616F6A315A786B6655624B6F415A4550",
+        "created_at": "24/4/2022", 
+        "slug": "binh-nuoc-cao-cap-biwa-16l"
+    },
+    {
+        "id": 7,
+        "name": "Bộ thau rổ đa năng cao cấp Yoko size 23cm",
+        "price": 200000,
+        "price_sale": 170000,
+        "img": "https://file.uto.vn/image/516D53563776314352787769774C6E394B4E7464503165504A36796A4573423865744C4C456F4848635372336179",
+        "created_at": "24/4/2022", 
+        "slug": "bo-thau-ro-dja-nang-cao-cap-yoko-size-23cm"
+    },
+    {
+        "id": 8,
+        "name": "An tâm dạ",
+        "price": 200000,
+        "price_sale": 170000,
+        "img": "https://file.uto.vn/image/516D61504A524D33766947336979775374537731517444574D5056616841474B453766385871445050614E316F57",
+        "created_at": "24/4/2022", 
+        "slug": ""
+    },
+    {
+        "id": 9,
+        "name": "Bộ 3 hộp thực phẩm tròn Hokkaido 750 - 1500 - 2500ml",
+        "price": 200000,
+        "price_sale": 170000,
+        "img": "https://file.uto.vn/image/516D616F6D6B454B4356706E645338787841465472515165456B546143704E56696A4469434E7437556554667870",
+        "created_at": "24/4/2022", 
+        "slug": "bo-3-hop-thuc-pham-tron-hokkaido-750-1500-2500ml"
+    },
+    {
+        "id": 10,
+        "name": "Khay trữ đông đồ ăn dặm Amori",
+        "price": 200000,
+        "price_sale": 170000,
+        "img": "https://file.uto.vn/image/516D53614C337132534767426F6362733647334C34326F5A687566445962467876684E58544E3175555856715773",
+        "created_at": "24/4/2022", 
+        "slug": ""
+    },
+    {
+        "id": 11,
+        "name": "Tinh dầu tỏi đen Sunkun",
+        "price": 200000,
+        "price_sale": 170000,
+        "img": "https://file.uto.vn/image/516D51364D534331444B6533763146444547614D637068587555675975437744634A4D6554624A43727954567164",
+        "created_at": "24/4/2022", 
+        "slug": "tinh-dau-toi-djen-sunkun"
+    },
+    {
+        "id": 12,
+        "name": "Khẩu trang y tế KF94 set 10 cái [Giao màu ngẫu nhiên]",
+        "price": 200000,
+        "price_sale": 170000,
+        "img": "https://file.uto.vn/image/516D566B735A42665A6D6E72474C3445546464624245733539445934435A366F6E696778686563646971355A4839",
+        "created_at": "24/4/2022", 
+        "slug": "khau-trang-y-te-kf94-set-10-cai-giao-mau-ngau-nhien"
+    },
+    {
+        "id": 13,
+        "name": "Kệ treo góc Nachi hít tường",
+        "price": 200000,
+        "price_sale": 170000,
+        "img": "https://file.uto.vn/image/516D504531476644594845735453434771416B45633139314C7350376D4E55377433345932664176545A4A7A5A59",
+        "created_at": "24/4/2022", 
+        "slug": "ke-treo-goc-nachi-hit-tuong"
+    },
+    {
+        "id": 14,
+        "name": "Son gấc giảm thâm dưỡng môi mềm mịn Milaganics 4.5g",
+        "price": 200000,
+        "price_sale": 170000,
+        "img": "https://file.uto.vn/image/516D594752486252734D384462687045576365726F7762544A3774466677424E3844397771416266675269486744",
+        "created_at": "24/4/2022", 
+        "slug": "son-gac-giam-tham-duong-moi-mem-min-milaganics-45g"
+    },
+    {
+        "id": 15,
+        "name": "Kính mát tròn to gọng kim loại viền nhựa màu đen - MK0001DV",
+        "price": 200000,
+        "price_sale": 170000,
+        "img": "https://file.uto.vn/image/516D547534547747546F57754A355378535562716B43504C6650434A476B713670376175626641736157474E7143",
+        "created_at": "24/4/2022", 
+        "slug": "kinh-mat-tron-to-gong-kim-loai-vien-nhua-mau-djen-mk0001dv"
+    }
+]

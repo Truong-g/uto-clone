@@ -1,0 +1,21 @@
+
+
+.side__bar::-webkit-scrollbar {
+    width: 5px;
+    display: none;
+}
+
+.side__bar:hover::-webkit-scrollbar {
+    display: block;
+}
+
+.side__bar::-webkit-scrollbar-track {
+    background: #e7e7e7;
+  }
+.side__bar::-webkit-scrollbar-thumb {
+background: #888;
+}
+
+.side__bar::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }

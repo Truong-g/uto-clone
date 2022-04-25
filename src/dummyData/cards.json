@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "MYMY21",
+        "slug": "",
+        "img": "https://file.uto.vn/image/516D66583173735957556862706B70444261577550314E6868424C7156486D7854796437726B45626D506935576D"
+    },
+    {
+        "id": 2,
+        "name": "Siêu thị Online Quảng Ngãi",
+        "slug": "",
+        "img": "https://file.uto.vn/image/516D4E76756F6A76653444503856474B70686761444D65465250766D32325A77315A6F4379683250643677427269"
+    },
+    {
+        "id": 3,
+        "name": "Nhân Sâm Hàn Quốc",
+        "slug": "",
+        "img": "https://file.uto.vn/image/516D56444B67463251564B4C65487045774E64366571516F5935666F567935795076673146466B634E6150576370"
+    },
+    {
+        "id": 4,
+        "name": "Cửa Hàng Nước Hoa Kim Phượng",
+        "slug": "",
+        "img": "https://file.uto.vn/image/516D6534566F553151324D3566334E46624D56466A7439416678484A7A694854764A4D734E5257516D6F52684B74"
+    },
+    {
+        "id": 5,
+        "name": "Cửa hàng dung dịch về sinh",
+        "slug": "",
+        "img": "https://file.uto.vn/image/516D55427636674D395362776D50715376796D4E38383946417265424159506B4C6637527A373441396F4448584A"
+    },
+    {
+        "id": 6,
+        "name": "Siro Ăn Ngon Cá Mập  Gold X2",
+        "slug": "",
+        "img": "https://file.uto.vn/image/516D5066325372426654634B754778544B58774E417148694D72467238676D5A5479517331647264576148424E72"
+    }
+]
