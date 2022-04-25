@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "https://truong-g.github.io/uto-clone/static/css/main.7ad9121f.css",
-    "main.js": "https://truong-g.github.io/uto-clone/static/js/main.22e0e2be.js",
+    "main.js": "https://truong-g.github.io/uto-clone/static/js/main.ea6e5006.js",
     "static/media/logo2.png": "https://truong-g.github.io/uto-clone/static/media/logo2.9905cfaa863c08c99ab9.png",
     "index.html": "https://truong-g.github.io/uto-clone/index.html",
     "static/media/index.cjs": "https://truong-g.github.io/uto-clone/static/media/index.cd351d7c31d0d3fccf96.cjs",
     "main.7ad9121f.css.map": "https://truong-g.github.io/uto-clone/static/css/main.7ad9121f.css.map",
-    "main.22e0e2be.js.map": "https://truong-g.github.io/uto-clone/static/js/main.22e0e2be.js.map"
+    "main.ea6e5006.js.map": "https://truong-g.github.io/uto-clone/static/js/main.ea6e5006.js.map"
   },
   "entrypoints": [
     "static/css/main.7ad9121f.css",
-    "static/js/main.22e0e2be.js"
+    "static/js/main.ea6e5006.js"
   ]
 }
