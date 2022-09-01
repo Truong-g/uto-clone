@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "homepage": "https://truong-g.github.io/uto-clone",
   "private": true,
+  "main": "build/index.js",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.1.1",
@@ -16,7 +17,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "react-scripts build -d build",
     "prepare": "npm run build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
